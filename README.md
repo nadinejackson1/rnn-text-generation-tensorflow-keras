@@ -26,9 +26,7 @@ You'll need Python and the following packages installed:
 For this example, we'll use a simple dataset containing one paragraph of text. You can replace this with a larger dataset to achieve better results.
 
 
-    text = """
-    I love machine learning. It is breathtaking! Deep learning and natural language processing are pretty phenomenal.
-    """
+    text = "I love machine learning. It is breathtaking! Deep learning and natural language processing are pretty phenomenal."
 
 ### Model
 
