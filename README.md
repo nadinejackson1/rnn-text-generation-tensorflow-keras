@@ -69,9 +69,8 @@ To ensure our code is working as expected, we can create a simple unit test that
 
 This is a basic example, and there is room for improvement. To enhance the quality of the generated text, consider:
 
-    Using a larger dataset
-    Training the model for more epochs
-    Experimenting with more complex architectures (e.g., LSTM or GRU networks)
-    Fine-tuning the temperature parameter in the generate_text function to control the level of creativity
+- Using a larger dataset
+- Training the model for more epochs
+- Experimenting with more complex architectures (e.g., LSTM or GRU networks)
+- Fine-tuning the temperature parameter in the generate_text function to control the level of creativity
 
-Happy text generation!
