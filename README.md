@@ -1,6 +1,6 @@
-# 100DaysofML-Day10
+### 100DaysofML-Day10
 
-### Simple RNN Text Generation with TensorFlow and Keras
+# RNN Text Generation with TensorFlow and Keras
 
 This project demonstrates how to implement a simple RNN (Recurrent Neural Network) for text generation using TensorFlow and Keras. The model takes a seed text as input and generates new text based on the patterns it has learned during training.
 
